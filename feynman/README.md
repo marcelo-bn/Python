@@ -13,7 +13,7 @@ Para a resolução deste desafio, foi necessário realizar alguns exemplos:
 
 Com essa análise foi possível chegar no seguinte somatório que fornecerá a resposta correta: $$\sum_{i = 1}^{n}i^{2}$$
 
-# Funcionamento do projeto
+## Funcionamento do projeto
 Para executar o projeto, o usuário deve fornecer o nome de uma arquivo `.txt` como argumento de entrada que irá conter os números que representarão a dimensão dos quadrados. Neste repositório existe um arquivo exemplo denominado de `in.txt`, o comando abaixo exemplifica como deve ser executado o programa.
 
 `python feynman.py 'arquivo.txt'`
