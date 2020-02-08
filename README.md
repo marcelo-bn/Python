@@ -1,2 +1,7 @@
-# Python
-Repositório destinado ao estudo pessoal em Python.
+# Repositório com alguns projetos para o estudo pessoal em Python.
+
+1.
+2.
+3.
+4.
+
