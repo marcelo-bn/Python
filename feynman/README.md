@@ -2,7 +2,7 @@
 > Marcelo Bittencourt do Nascimento Filho
 
 ## Introdução
-O presente projeto visa a resolução do desafio sul-americano proposto pelo site [SPOJ](https://www.spoj.com). A ideia central do problema é a seguinte: Fornecer como saída o número total de quadrados encontrados em uma figura formada por uma determinada dimensão fornecida como entrada. Na imagem a abaixo é possível visualizar melhor o problema, a entrada no caso é 2 e teremos como saída 5.
+O presente projeto visa a resolução do desafio sul-americano proposto pelo site [SPOJ](https://www.spoj.com). A ideia central do problema é a seguinte: Fornecer como saída o número total de quadrados encontrados em uma figura formada por uma determinada dimensão fornecida como entrada. Na imagem abaixo é possível visualizar melhor o problema, a entrada no caso é 2 e teremos como saída 5.
 
 ![](ex.png)
 
